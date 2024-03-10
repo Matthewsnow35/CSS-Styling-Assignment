@@ -1,4 +1,5 @@
 # This Contains Lab instructions I followed along with in order to complete the activity
+# This is a part of the "Introduction to Front-End" course through coursera.
 # CSS-Styling-Assignment
 # Lab Instructions: Styling a page
 
